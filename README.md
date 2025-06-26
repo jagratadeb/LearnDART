@@ -9,21 +9,10 @@ A curated collection of simple, well-organized Dart code examples for beginners.
 
 ## Folder Structure & Contents
 
-### 01 Hello World
-- [`01helloWorld.dart`](./01%20Hello%20World/01helloWorld.dart) — Basic Hello World example
-
-### 02 Comments
-- [`01singleLine.dart`](./02%20Comments/01singleLine.dart) — Single-line comments
-- [`02multiLine.dart`](./02%20Comments/02multiLine.dart) — Multi-line comments
-
-### 03 Variables
-- [`01variables.dart`](./03%20Variables/01variables.dart) — Variable declarations and usage
-
-### 04 Data Types
-- [`01string.dart`](./04%20Data%20Types/01string.dart) — String data type example
-- [`02int.dart`](./04%20Data%20Types/02int.dart) — Integer data type example
-- [`03double.dart`](./04%20Data%20Types/03double.dart) — Double (floating-point) data type example
-- [`04boolean.dart`](./04%20Data%20Types/04boolean.dart) — Boolean data type example
+- [01 Hello World](./01%20Hello%20World/) — Basic Hello World example
+- [02 Comments](./02%20Comments/) — Single-line and multi-line comments
+- [03 Variables](./03%20Variables/) — Variable declarations and usage
+- [04 Data Types](./04%20Data%20Types/) — String, int, double, boolean, var, final and const examples.
 
 ## Contribution
 > **Note:** Contributions are not being accepted at this time.
