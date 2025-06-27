@@ -13,6 +13,7 @@ A curated collection of simple, well-organized Dart code examples for beginners.
 - [02 Comments](./02%20Comments/) — Single-line and multi-line comments
 - [03 Variables](./03%20Variables/) — Variable declarations and usage
 - [04 Data Types](./04%20Data%20Types/) — String, int, double, boolean, var, final and const examples.
+- [05 Operators](./05%20Operators/)
 
 ## Contribution
 > **Note:** Contributions are not being accepted at this time.
