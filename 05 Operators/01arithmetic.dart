@@ -21,10 +21,26 @@ void main() {
   // Modulus
   int remainder = num1 % num2;
 
+  // Increment
+  int postIncrement = num1;
+  int preIncrement = num1;
+  postIncrement++;
+  ++preIncrement;
+
+  // Decrement
+  int postDecrement = num2;
+  int preDecrement = num2;
+  postDecrement--;
+  --preDecrement;
+
   print("Sum: $sum");
   print("Difference: $difference");
   print("Product: $product");
   print("Quotient: $quotient");
   print("Integer Division: $integerDivision");
   print("Remainder: $remainder");
+  print("Post-incremented num1: $postIncrement");
+  print("Pre-incremented num1: $preIncrement");
+  print("Post-decremented num2: $postDecrement");
+  print("Pre-decremented num2: $preDecrement");
 }
