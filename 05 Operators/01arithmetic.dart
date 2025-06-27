@@ -1,7 +1,7 @@
 // Dart program to demonstrate arithmetic operators
 void main() {
   int num1 = 10;
-  int num2 = 5;
+  int num2 = 3;
 
   // Addition
   int sum = num1 + num2;
