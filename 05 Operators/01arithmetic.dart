@@ -15,6 +15,9 @@ void main() {
   // Division
   double quotient = num1 / num2;
 
+  // Integer Division
+  int integerDivision = num1 ~/ num2;
+
   // Modulus
   int remainder = num1 % num2;
 
@@ -22,5 +25,6 @@ void main() {
   print("Difference: $difference");
   print("Product: $product");
   print("Quotient: $quotient");
+  print("Integer Division: $integerDivision");
   print("Remainder: $remainder");
 }
