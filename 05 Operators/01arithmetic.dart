@@ -33,6 +33,18 @@ void main() {
   postDecrement--;
   --preDecrement;
 
+  // Assignment operator shortcuts
+  int a = 5;
+  a += 2; // a = a + 2
+  int b = 8;
+  b -= 3; // b = b - 3
+  int c = 4;
+  c *= 6; // c = c * 6
+  double d = 10;
+  d /= 2; // d = d / 2
+  int e = 13;
+  e %= 5; // e = e % 5
+
   print("Sum: $sum");
   print("Difference: $difference");
   print("Product: $product");
@@ -43,4 +55,9 @@ void main() {
   print("Pre-incremented num1: $preIncrement");
   print("Post-decremented num2: $postDecrement");
   print("Pre-decremented num2: $preDecrement");
+  print("a after += 2: $a");
+  print("b after -= 3: $b");
+  print("c after *= 6: $c");
+  print("d after /= 2: $d");
+  print("e after %= 5: $e");
 }
