@@ -16,4 +16,8 @@ void main() {
   print('a || b: ${a || b}');
   print('a || false: $a');
   print('b || false: ${b || false}');
+
+  // Logical NOT
+  print('!a: ${!a}');
+  print('!b: ${!b}');
 }
