@@ -5,7 +5,9 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jagratadeb/LearnDART?style=for-the-badge)
 
-A curated collection of simple, well-organized Dart code examples for beginners. This repository is designed to help you learn the basics of the Dart programming language through hands-on code samples, covering topics such as variables, data types, comments, and more. Each folder contains focused examples to make learning Dart easy and practical.
+A curated and beginner-friendly Dart learning repository featuring practical code examples for each core concept. Explore well-organized folders covering the essentials of Dart programming, including variables, data types, operators, comments, and more. 
+
+Each topic is separated for easy navigation and hands-on learning.
 
 ## Folder Structure & Contents
 
@@ -14,6 +16,7 @@ A curated collection of simple, well-organized Dart code examples for beginners.
 - [03 Variables](./03%20Variables/) — Variable declarations and usage
 - [04 Data Types](./04%20Data%20Types/) — String, int, double, boolean, var, final and const examples.
 - [05 Operators](./05%20Operators/) — Arithmetic, comparison, and logical operator examples.
+- <i><u>More concepts to be added in the future.</u></i>
 
 ## Contribution
 > **Note:** Contributions are not being accepted at this time.
