@@ -17,6 +17,7 @@ Each topic is separated for easy navigation and hands-on learning.
 - [04 Data Types](./04%20Data%20Types/) — String, int, double, boolean, var, final and const examples.
 - [05 Operators](./05%20Operators/) — Arithmetic, comparison, and logical operator examples.
 - [06 Control Flow](./06%20Control%20Flow/) — if-else, switch-case, and loops (for, while, do-while)
+- [07 Collections](./07%20Collections/) — Lists, sets, and maps with examples.
 - <i><u>More concepts to be added in the future.</u></i>
 
 ## Contribution
