@@ -26,4 +26,7 @@ void main() {
   // Length of the list
   print(numbers.length); // Output: 5
   print(fruits.length); // Output: 3
+
+  // Check if the list is empty
+  print(numbers.isEmpty); // Output: false
 }
